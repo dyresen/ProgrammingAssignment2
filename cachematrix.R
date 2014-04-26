@@ -1,5 +1,4 @@
-## Two functions that will enable you to cache and reuse the inverse of a matrix.
-## Using solve function of compute the inverse. 
+## Two functions that will enable you to cache and reuse the inverse of a matrix## Using solve function to compute the inverse. 
 
 ## Takes a matrix as argument and returns a list of functions to set and
 ## get the cached values on object x.
